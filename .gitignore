@@ -1,0 +1,17 @@
+# Exclude compiled files
+**/*.a
+**/*.o
+**/*.so
+**/*.dll
+**/*.exe
+**/*.lib
+**/*.obj
+**/*.out
+**/*.zip
+
+# Exclude directories
+.vs
+bin
+out
+venv
+build
